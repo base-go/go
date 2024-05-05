@@ -10,18 +10,18 @@
 //	20 is too large!
 //
 //	main.Foo
-//	  github.com/samsarahq/go/oops/example/main.go:12
+//	  github.com/base-go/go/oops/example/main.go:12
 //	main.Legacy
-//	  github.com/samsarahq/go/oops/example/main.go:19
+//	  github.com/base-go/go/oops/example/main.go:19
 //	main.Bar: Legacy(20) didn't work
-//	  github.com/samsarahq/go/oops/example/main.go:24
+//	  github.com/base-go/go/oops/example/main.go:24
 //	main.Go.func1
-//	  github.com/samsarahq/go/oops/example/main.go:35
+//	  github.com/base-go/go/oops/example/main.go:35
 //
 //	main.Go: goroutine had a problem
-//	  github.com/samsarahq/go/oops/example/main.go:38
+//	  github.com/base-go/go/oops/example/main.go:38
 //	main.main
-//	  github.com/samsarahq/go/oops/example/main.go:42
+//	  github.com/base-go/go/oops/example/main.go:42
 //	runtime.main
 //	  runtime/proc.go:185
 //
@@ -43,7 +43,7 @@
 //	import (
 //	  "fmt"
 //
-//	  "github.com/samsarahq/go/oops"
+//	  "github.com/base-go/go/oops"
 //	)
 //
 //	// Foo creates new errors using oops.Errorf.
