@@ -11,7 +11,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/samsarahq/go/oops"
+	"github.com/base-go/go/oops"
 	"github.com/stretchr/testify/assert"
 )
 

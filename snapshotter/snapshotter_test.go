@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/samsarahq/go/snapshotter"
+	"github.com/base-go/go/snapshotter"
 )
 
 func TestSnapshotter(t *testing.T) {

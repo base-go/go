@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/samsarahq/go/oops"
+	"github.com/base-go/go/oops"
 )
 
 // Foo creates new errors using oops.Errorf.
